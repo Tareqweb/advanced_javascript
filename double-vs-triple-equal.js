@@ -3,6 +3,7 @@ const second="2";
 
 // const first=0;
 // const second=false;
+
 // == means check only value here check value 2 and 2 that's why its true
 // but ===means check value and type here "2" is string type so that it is false
 
